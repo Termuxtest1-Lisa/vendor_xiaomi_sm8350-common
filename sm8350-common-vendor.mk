@@ -555,6 +555,7 @@ PRODUCT_PACKAGES += \
     manifest_vendor.xiaomi.hardware.mlipay.xml \
     vendor.qti.gnss@4.0-service.xml \
     vendor.xiaomi.hardware.citsensorservice@1.1-service.xml \
+    chargeonlymode \
     adpl \
     adsprpcd \
     cdsprpcd \
